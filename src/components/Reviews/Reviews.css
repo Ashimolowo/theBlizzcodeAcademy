@@ -1,0 +1,81 @@
+
+
+
+.carousel-main{
+     padding: 20px;
+     position: relative;
+     top: 900px;
+     margin: 0 auto;
+     max-width: 800px;
+}
+.carousel-sub-main{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.carousel-button{
+    border: none;
+    background-color: #f2f8fd; 
+}
+.carousel-link{
+    text-decoration: none;
+     color: #F2F8FD;
+    background-color: rgb(64, 64, 241);
+    border-radius: 12px;
+    padding: 10px;
+}
+.button-icon{
+   font-size: 20px;
+    margin-left: 3px;
+    transition: .3s; 
+    transform: translateX(3px); 
+}
+.button-icon-left{
+    cursor: pointer;
+    font-size: 24px;
+    margin-right: 20px
+}
+
+  
+.carousel-header{
+     text-align: center;
+     margin-bottom: 30px;
+}
+.carousel-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.carousel-inner{
+        width: 80%;
+        padding: 20px;
+        border: double 2px #555;
+        border-radius: 8px;
+        text-align: center;
+}
+.carousel-inner-div{
+        display: flex;
+         justify-content: center;
+         gap: 20px;
+}
+.h3-house{
+    font-weight: normal 
+}
+
+.btn-btn-btn{ 
+     text-align: center;
+     margin-top: 20px;
+    }
+.enroll-link{
+    text-decoration: none;
+    color: #F2F8FD;
+    background-color: rgb(64, 64, 241);
+    border-radius: 12px;
+     padding: 10px; 
+}
+.enroll-button-icon{
+    font-size: 20px;
+    margin-left: 3px;
+     transition: .3s 
+}
