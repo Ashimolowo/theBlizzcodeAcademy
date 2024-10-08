@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ashimolowo.github.io/theBlizzcodeAcademy",
   "scripts": {
     "dev": "vite",
     "predeply": "npm run build",
